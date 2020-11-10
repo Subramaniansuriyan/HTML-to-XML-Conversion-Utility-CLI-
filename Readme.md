@@ -1,13 +1,13 @@
-# Python FTP_Sync Utility
+# Python Html to xml conversion
 
-Simple python application for a FTP-Sync Utility (CLI)
+Simple python application for a HTML TO XML conversion(CLI)
 
 You can pass the xml file path as a command line argument.
 
 ## Usage
 
 ```
-python main.py file_path
+python xml_conv.py file_path
 ```
 
 For example,
@@ -15,6 +15,6 @@ For example,
 
 ### File Path:
 ```
-python main.py /home/subu/Pictures/amnet/sample.xml
+python xml_conv.py /home/subu/Pictures/amnet/sample.html
 
 ```
