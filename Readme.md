@@ -7,7 +7,7 @@ You can pass the xml file path as a command line argument.
 ## Usage
 
 ```
-python main.py directory_path|file_path
+python main.py file_path
 ```
 
 For example,

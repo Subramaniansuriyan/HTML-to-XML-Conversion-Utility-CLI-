@@ -64,4 +64,4 @@ if __name__ == '__main__':
         else:
             parse_xmlfile(arg)
     except Exception as e:
-        print("usage: python3 main.py directory_path|file_path")
+        print("usage: python3 main.py file_path")
